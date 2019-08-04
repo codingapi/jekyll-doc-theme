@@ -17,5 +17,5 @@ redirect_from: /docs/index.html
   我认为敏捷思维，至少需要从三种角度去落地：项目管理、技术能力、团队激励。只有建立一套优良的制度体系才能让敏捷落地。加入CodingApi，大家一同去探索与学习如何从0开始搭建敏捷之路。
 
 
-<div align="center"><img src="/img/qrcode.jpg" style="width:300px;" /></div>
+<div align="center"><img src="/img/qrcode330.jpg" style="width:300px;" /></div>
 
