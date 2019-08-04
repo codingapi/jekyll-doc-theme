@@ -2,11 +2,10 @@
 title: CodingApi
 email: 1991wangliang@gmail.com
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  CodingAPI is an open source organization.
 lang: en-US
 
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://codingapi.github.io/codingapi.github.io # the base hostname & protocol for your site
 git_address: https://github.com/codingapi/codingapi.github.io
 git_edit_address: https://github.com/codingapi/codingapi.github.io/blob/gh-pages
