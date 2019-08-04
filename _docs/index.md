@@ -4,47 +4,18 @@ permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-## Getting started
+## 欢迎加入CodingApi
 
-[GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
-Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
-The good thing about coupling your documentation with the source repo is, whenever you merge features with regarding content to master branch, it will also be published on the webpage instantly.
+  我曾经得意与我是一名优秀的程序员，我可以用更短的时间做出更好的东西。我曾经得意与我是一名架构师，我可以将负责的系统架构用清晰的架构来规划出实现思路。我现在是公司CTO，我发现一个好的产品靠一个好的程序员或是好的架构师也根本打造不出来。
 
-1. Just [download the source](https://github.com/aksakalli/jekyll-doc-theme/archive/gh-pages.zip) into your repo under `docs` folder.
-2. Edit site settings in  `_config.yml` file according to your project. !!! `baseurl` should be your website's relative URI like `/my-proj` !!!
-3. Replace `favicon.ico` and `img/logonav.png` with your own logo.
+  我想任何人在小时候，小老师和家长都在说应该好好学习，大家肯定都认可好好学习是对的。突然有人说他晚上写作业写到很晚时，然后你也会附和一下，还特意将头转向对方然后对他说：恩，我有时候也这样。
 
-## Writing content
+  我给很多人讲敏捷思维后，很多人也都说，嗯嗯 就是这样，我们也这样做需求或什么..。我想问那为什么项目还是做黄了，读敏捷管理，你就知道其实它只是一个宣言，并没有告诉大家具体落地的方式。
 
-### Docs
+  大道理大家都懂，但是如何以一种的好的方式去激励着自己前行下去才是最有价值的东西。
 
-Docs are [collections](https://jekyllrb.com/docs/collections/) of pages stored under `_docs` folder. To create a new page:
+  我认为敏捷思维，至少需要从三种角度去落地：项目管理、技术能力、团队激励。只有建立一套优良的制度体系才能让敏捷落地。加入CodingApi，大家一同去探索与学习如何从0开始搭建敏捷之路。
 
-**1.** Create a new Markdown as `_docs/my-page.md` and write [front matter](https://jekyllrb.com/docs/frontmatter/) & content such as:
 
-```
----
-title: My Page
-permalink: /docs/my-page/
----
+<div align="center"><img src="../../img/qrcode.jpg" style="width:300px;" /></div>
 
-Hello World!
-```
-
-**2.** Add the pagename to `_data/docs.yml` file in order to list in docs navigation panel:
-
-```
-- title: My Group Title
-  docs:
-  - my-page
-```
-
-### Blog posts
-
-Add a new Markdown file such as `2017-05-09-my-post.md` and write the content similar to other post examples.
-
-### Pages
-
-The homepage is located under `index.html` file. You can change the content or design completely different welcome page for your taste. (You can use [bootstrap components](http://getbootstrap.com/components/))
-
-In order to add a new page, create a new `.html` or `.md` (markdown) file under root directory and link it in `_includes/topnav.html`.
