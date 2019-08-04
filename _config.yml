@@ -29,7 +29,10 @@ exclude:
   - .idea/
   - .gitignore
   - README.md
-timezone: Aisa/Shanghai
+timezone: Asia/Shanghai
+
+future: true
+
 defaults:
 - scope:
     path: _posts
