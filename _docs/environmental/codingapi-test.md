@@ -34,7 +34,7 @@ maven:
 <dependency>
       <groupId>com.codingapi</groupId>
       <artifactId>codingapi-test</artifactId>
-      <version>0.0.1</version>
+      <version>0.0.2</version>
 </dependency>
 ```
 
@@ -63,13 +63,13 @@ maven:
                   //查询关键字
                   primaryKey = "info",
                   //关键值类型
-                  type = CheckMongoData.Type.String,
+                  type = CheckMongoData.Type.STRING,
                   //错误提示
                   desc = "数据不存在",
                   //加载类对象
                   bean = Logger.class,
-                  //校验数据 key:字段，value:值，type:值类型
-                  expected = @Expected(key = "id",value = "1",type = Expected.Type.Long))
+                  //校验数据 key:字段，value:值
+                  expected = @Expected(key = "id",value = "1"))
         },
         checkMysqlData = {
            //Mysql 数据检查
@@ -78,8 +78,8 @@ maven:
                    sql = "select name from t_demo where name = '123'",
                    //错误提示
                    desc = "数据不存在",
-                   //校验数据 key:字段，value:值，type:值类型
-                   expected = @Expected(key = "name",value = "123",type = Expected.Type.String))
+                   //校验数据 key:字段，value:值
+                   expected = @Expected(key = "name",value = "123"))
          },
         //开启清理          
         enableClear = true,
@@ -186,7 +186,7 @@ codingapi.test.outPath=${user.dir}/xml
 <dependency>
       <groupId>com.codingapi</groupId>
       <artifactId>codingapi-test</artifactId>
-      <version>0.0.1</version>
+      <version>0.0.2</version>
 </dependency>
 ```
 
