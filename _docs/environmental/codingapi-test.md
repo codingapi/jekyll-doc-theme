@@ -106,8 +106,8 @@ t_demo.xml
   <name>t_demo</name>
   <!--插入语句自动创建的 -->
   <initCmd>insert into t_demo(id,name) values(#{id},#{name})</initCmd>
-  <!--数据库类型 -->
-  <dbType>Mysql</dbType>
+  <!--数据库类型  MONGODB RELATIONAL-->
+  <dbType>RELATIONAL</dbType>
   <!--entity所在类 -->
   <className>com.codingapi.cidemo.domain.Demo</className>
   <list>
@@ -132,8 +132,8 @@ mongo.xml
   <name>logger</name>
   <!--暂不需要 -->
   <initCmd></initCmd>
-  <!--数据库类型 -->
-  <dbType>Mongo</dbType>
+  <!--数据库类型 MONGODB RELATIONAL-->
+  <dbType>MONGODB</dbType>
   <!--entity所在类 -->
   <className>com.codingapi.cidemo.collection.Logger</className>
   <list>
@@ -155,10 +155,10 @@ mongo.xml
 
 如何创建 数据模块xml
 
-增加`@XmlBuild` 配置表名称和类型即可
-```
+增加`@XmlBuild` 配置表名称和类型即可 `colType`是字段插入语句的类型，分为`UNDERLINE`下划线和`CAMEL`驼峰两种类型
+```java
 @Data
-@XmlBuild(name = "t_demo",dbType= DBType.Mysql)
+@XmlBuild(name = "t_demo",dbType= DBType.RELATIONAL,colType = XmlBuild.ColType.UNDERLINE)
 public class Demo extends BaseVO {
 
     private Long id;
