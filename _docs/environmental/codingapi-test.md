@@ -23,7 +23,7 @@ permalink: /docs/codingapi-test/
 * 方便快捷的准备测试数据
 * 自动化的校验
 * 自动化的清理数据
-* 兼容MongoDB、MySQL(关系型)
+* 兼容MongoDB、关系型数据库(例如:Mysql、Oracle、SqlServer...)
 
 github:
 
