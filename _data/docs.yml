@@ -2,6 +2,10 @@
   docs:
   - home
 
-- title: environmental
+- title: Java 
   docs:
     - codingapi-test
+
+- title: DeepLearning
+  docs:
+    - lesson01
