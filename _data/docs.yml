@@ -1,11 +1,7 @@
 - title: Getting Started
   docs:
   - home
-  - themes
-  - customization
 
-- title: Examples
+- title: environmental
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+    - codingapi-test

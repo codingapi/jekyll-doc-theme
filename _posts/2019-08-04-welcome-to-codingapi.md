@@ -1,9 +1,9 @@
 ---
-title: Welcome
-permalink: /docs/home/
-redirect_from: /docs/index.html
+layout: post
+title:  "Welcome to CodingApi!"
+date:   2019-08-04 14:41:29
+author: Lorne
 ---
-
 ## 欢迎加入CodingApi
 
   我曾经得意与我是一名优秀的程序员，我可以用更短的时间做出更好的东西。我曾经得意与我是一名架构师，我可以将负责的系统架构用清晰的架构来规划出实现思路。我现在是公司CTO，我发现一个好的产品靠一个好的程序员或是好的架构师也根本打造不出来。
@@ -18,4 +18,3 @@ redirect_from: /docs/index.html
 
 
 <div align="center"><img src="/img/qrcode330.jpg" style="width:300px;" /></div>
-
