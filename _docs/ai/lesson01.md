@@ -42,5 +42,6 @@ https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
 
 
 
+$$ K(\theta )= (h_\theta(x^{i}) - y^{i})^2 = (h_\theta(x^i))^2+(y^i)^2-2y^ih_\theta(x^i) $$
 
- 
+
