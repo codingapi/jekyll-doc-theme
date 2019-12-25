@@ -9,3 +9,7 @@
 - title: DeepLearning
   docs:
     - lesson01
+
+- title: TX-LCN
+  docs:
+     - txlcn-lessson01
