@@ -3,7 +3,9 @@ title:  分布式事务从0到1-认识分布式事务
 permalink: /docs/txlcn-lessson01/
 ---
 
-![](/img/WX20191220-102719.png)
+<iframe src="//player.bilibili.com/player.html?aid=80626430&page=1" 
+ scrolling="no" border="0" frameborder="no" framespacing="0" width="100%" height="600px" allowfullscreen="true">
+</iframe>
 
 本节课讲解的主要内容是先介绍与分布式事务相关的一些理论   
 ACID 隔离级别 spring事务传播行为 乐观锁悲观锁 BASE理论 ACP理论 拜占庭将军问题 共识算法 
