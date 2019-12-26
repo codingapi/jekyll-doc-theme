@@ -1,6 +1,6 @@
 ---
 title:  分布式事务从0到1-认识分布式事务
-permalink: /docs/txlcn-lessson01/
+permalink: /docs/txlcn-lesson01/
 ---
 
 <iframe src="//player.bilibili.com/player.html?aid=80626430&page=1" 
