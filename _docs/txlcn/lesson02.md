@@ -3,7 +3,8 @@ title:  分布式事务从0到1-了解TX-LCN原理
 permalink: /docs/txlcn-lesson02/
 ---
 
-![](/img/WX20191220-102719.png) 
+<iframe src="//player.bilibili.com/player.html?aid=80676649&cid=138066500&page=1"
+ scrolling="no" border="0" frameborder="no" width="100%" height="600px" framespacing="0" allowfullscreen="true"> </iframe>
 本节课讲解的主要内容是TX-LCN分布式事务的原理介绍。
 
 ### TX-LCN的核心控制流程
@@ -110,7 +111,11 @@ A ->B2.two();
 
 控制在同一次事务下同一个被负载的模块被重复调用时将只会请求到第一次被选中的模块。
 
+
 ### 保障机制与补偿
+
+<iframe src="//player.bilibili.com/player.html?aid=80676836&cid=138067157&page=1" scrolling="no" border="0"
+width="100%" height="600px" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 #### 超时机制
 当业务模块在接受到事务请求，并完成响应以后会自动加入定时任务，等待TM通知，若TM迟迟不通知则触发TC主动请求的状况，若TC没有请求到数据就记录补偿（回滚事务）。
