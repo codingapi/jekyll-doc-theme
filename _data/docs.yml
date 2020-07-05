@@ -2,16 +2,6 @@
   docs:
   - home
 
-- title: Java 
+- title: TX-LCN v5.0
   docs:
-    - codingapi-test
-
-- title: DeepLearning
-  docs:
-    - lesson01
-
-- title: TX-LCN
-  docs:
-     - txlcn-index
-     - txlcn-lesson01
-     - txlcn-lesson02
+     - txlcn-start
