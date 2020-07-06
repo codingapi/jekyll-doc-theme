@@ -1,4 +1,8 @@
-# 通讯协议扩展
+---
+title: 通讯协议扩展
+permalink: /docs/txlcn-expansion-message/
+---
+
 
 通讯协议扩展是指txclient与txmanager通讯的协议扩展。
 

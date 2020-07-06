@@ -1,4 +1,7 @@
-# 问题排查手册
+---
+title: 问题排查手册
+permalink: /docs/txlcn-debug/
+---
 
 ## 一、概述
 TxManager 和 TxClient 都支持日志记录到数据库（TXManager默认开启日志记录）。  

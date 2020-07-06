@@ -1,4 +1,8 @@
-# 通讯指令手册
+---
+title: 通讯指令手册
+permalink: /docs/txlcn-communication/
+---
+
 
 TxClient 与 TxManager 通讯指令说明文档
 

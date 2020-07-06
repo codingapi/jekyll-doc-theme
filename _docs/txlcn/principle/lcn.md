@@ -1,4 +1,8 @@
-# LCN事务模式
+---
+title: LCN事务模式
+permalink: /docs/txlcn-principle-lcn/
+---
+
 
 ## 一、原理介绍:     
 &nbsp;&nbsp;&nbsp;&nbsp;LCN模式是通过代理Connection的方式实现对本地事务的操作，然后在由TxManager统一协调控制事务。当本地事务提交回滚或者关闭连接时将会执行假操作，该代理的连接将由LCN连接池管理。

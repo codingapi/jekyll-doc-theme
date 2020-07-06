@@ -1,4 +1,7 @@
-# TXC事务模式
+---
+title: TXC事务模式
+permalink: /docs/txlcn-principle-txc/
+---
 
 ## 一、原理介绍：    
 &nbsp;&nbsp;&nbsp;&nbsp;TXC模式命名来源于淘宝，实现原理是在执行SQL之前，先查询SQL的影响数据，然后保存执行的SQL快走信息和创建锁。当需要回滚的时候就采用这些记录数据回滚数据库，目前锁实现依赖redis分布式锁控制。

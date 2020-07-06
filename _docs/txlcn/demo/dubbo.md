@@ -1,4 +1,7 @@
-# Dubbo示例
+---
+title: Dubbo示例
+permalink: /docs/txlcn-demo-dubbo/
+---
 
 Dubbo 示例说明  
 共三个模块如下：  

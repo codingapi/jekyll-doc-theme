@@ -1,4 +1,7 @@
-# TX-LCN 5.0.0 性能测试报告
+---
+title: TX-LCN 5.0.0 性能测试报告
+permalink: /docs/txlcn-test/
+---
 
 ## 方式说明
 

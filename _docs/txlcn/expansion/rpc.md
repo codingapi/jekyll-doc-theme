@@ -1,4 +1,7 @@
-# RPC框架扩展
+---
+title: RPC框架扩展
+permalink: /docs/txlcn-expansion-rpc/
+---
 
 RPC扩展主要是指在分布式事务框架下对传递控制参数的支持、与负载均衡的扩展控制。   
 

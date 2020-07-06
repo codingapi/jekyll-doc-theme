@@ -1,4 +1,7 @@
-# TxManager配置说明
+---
+title: TxManager配置说明
+permalink: /docs/txlcn-setting-manager/
+---
 
 ## application.properties
 ```properties

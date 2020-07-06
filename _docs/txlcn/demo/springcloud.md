@@ -1,4 +1,7 @@
-# SpringCloud示例
+---
+title: SpringCloud示例
+permalink: /docs/txlcn-demo-springcloud/
+---
 
 SpringCloud 示例说明  
 共三个模块如下：  

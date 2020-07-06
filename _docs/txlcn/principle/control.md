@@ -1,4 +1,8 @@
-# 事务控制原理
+---
+title: 事务控制原理
+permalink: /docs/txlcn-principle-control/
+---
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;TX-LCN由两大模块组成, TxClient、TxManager，TxClient作为模块的依赖框架，提供TX-LCN的标准支持，TxManager作为分布式事务的控制放。事务发起方或者参与反都由TxClient端来控制。
 

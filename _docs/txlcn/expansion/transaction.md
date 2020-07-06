@@ -1,4 +1,7 @@
-# 事务模式扩展
+---
+title: 事务模式扩展
+permalink: /docs/txlcn-expansion-transaction/
+---
 
 TX-LCN不仅仅支持LCN TXC TCC模式，也可以由开发者自定义符合TX-LCN控制原理的请求事务模型。
 

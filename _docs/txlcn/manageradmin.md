@@ -1,4 +1,8 @@
-# TxManager管理手册
+---
+title: TxManager管理手册
+permalink: /docs/txlcn-manageradmin/
+---
+
 
 访问 [http://127.0.0.1:8069/admin/index.html](http://127.0.0.1:8069/admin/index.html)进入管理后台，默认密码时`codingapi`。[指定密码](setting/manager.html)
 

@@ -1,4 +1,8 @@
-# 负载与集群配置
+---
+title: 负载与集群配置
+permalink: /docs/txlcn-setting-distributed/
+---
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;负载集群分为业务模块与TxManager
 

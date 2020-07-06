@@ -1,4 +1,8 @@
-# TxClient配置说明
+---
+title: TxClient配置说明
+permalink: /docs/txlcn-setting-client/
+---
+
 ## 一、application.properties
 ```properties
 

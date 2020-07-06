@@ -1,5 +1,7 @@
-# 开发者
-
+---
+title: 开发者
+permalink: /docs/txlcn-developer/
+---
 
 5.0版本研发者均为CodingApi成员。
 
