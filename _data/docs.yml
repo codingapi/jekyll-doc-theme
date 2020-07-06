@@ -4,4 +4,8 @@
 
 - title: TX-LCN v5.0
   docs:
+     - txlcn-preface
+     - txlcn-background
      - txlcn-start
+     - txlcn-dependencies
+     -

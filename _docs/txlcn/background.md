@@ -1,4 +1,7 @@
-# 背景
+---
+title: 背景
+permalink: /docs/txlcn-background/
+---
 
 &nbsp;&nbsp;&nbsp;&nbsp;LCN框架在2017年6月份发布第一个版本，从开始的1.0，已经发展到了5.0版本。     
 LCN名称是由早期版本的LCN框架命名，在设计框架之初的1.0 ~ 2.0的版本时框架设计的步骤是如下,各取其首字母得来的LCN命名。

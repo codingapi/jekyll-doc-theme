@@ -1,4 +1,7 @@
-# 依赖
+---
+title: 依赖
+permalink: /docs/txlcn-dependencies/
+---
 
 ## 基础依赖
 * JDK 8+
