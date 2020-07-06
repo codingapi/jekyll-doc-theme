@@ -1,5 +1,5 @@
 ---
-title: 负载与集群配置
+title: 配置手册|负载与集群配置
 permalink: /docs/txlcn-setting-distributed/
 ---
 

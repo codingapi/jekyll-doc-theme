@@ -1,5 +1,5 @@
 ---
-title: TxClient配置说明
+title: 配置手册|TxClient配置说明
 permalink: /docs/txlcn-setting-client/
 ---
 

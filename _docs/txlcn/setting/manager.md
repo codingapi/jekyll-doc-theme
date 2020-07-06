@@ -1,5 +1,5 @@
 ---
-title: TxManager配置说明
+title: 配置手册|TxManager配置说明
 permalink: /docs/txlcn-setting-manager/
 ---
 

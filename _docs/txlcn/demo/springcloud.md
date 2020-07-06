@@ -1,5 +1,5 @@
 ---
-title: SpringCloud示例
+title: 示例|SpringCloud示例
 permalink: /docs/txlcn-demo-springcloud/
 ---
 

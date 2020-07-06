@@ -1,5 +1,5 @@
 ---
-title: TXC事务模式
+title: 原理介绍|TXC事务模式
 permalink: /docs/txlcn-principle-txc/
 ---
 

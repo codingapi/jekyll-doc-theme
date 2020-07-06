@@ -1,5 +1,5 @@
 ---
-title: 尝试下简单的分布式事务
+title: 示例|尝试下简单的分布式事务
 permalink: /docs/txlcn-demo-env/
 ---
 

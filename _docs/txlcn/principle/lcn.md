@@ -1,5 +1,5 @@
 ---
-title: LCN事务模式
+title: 原理介绍|LCN事务模式
 permalink: /docs/txlcn-principle-lcn/
 ---
 

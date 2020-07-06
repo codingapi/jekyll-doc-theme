@@ -1,5 +1,5 @@
 ---
-title: 事务模式扩展
+title: 事务拓展|事务模式扩展
 permalink: /docs/txlcn-expansion-transaction/
 ---
 

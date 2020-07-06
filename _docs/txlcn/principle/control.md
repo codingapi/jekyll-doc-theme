@@ -1,5 +1,5 @@
 ---
-title: 事务控制原理
+title: 原理介绍|事务控制原理
 permalink: /docs/txlcn-principle-control/
 ---
 

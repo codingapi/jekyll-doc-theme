@@ -1,5 +1,5 @@
 ---
-title: 通讯协议扩展
+title: 事务拓展|通讯协议扩展
 permalink: /docs/txlcn-expansion-message/
 ---
 

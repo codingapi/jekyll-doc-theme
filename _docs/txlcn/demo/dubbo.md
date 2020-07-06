@@ -1,5 +1,5 @@
 ---
-title: Dubbo示例
+title: 示例|Dubbo示例
 permalink: /docs/txlcn-demo-dubbo/
 ---
 
