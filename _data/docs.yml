@@ -2,16 +2,28 @@
   docs:
   - home
 
-- title: Java 
+- title: TX-LCN v5.x
   docs:
-    - codingapi-test
-
-- title: DeepLearning
-  docs:
-    - lesson01
-
-- title: TX-LCN
-  docs:
-     - txlcn-index
-     - txlcn-lesson01
-     - txlcn-lesson02
+     - txlcn-preface
+     - txlcn-background
+     - txlcn-start
+     - txlcn-dependencies
+     - txlcn-demo-env
+     - txlcn-demo-dubbo
+     - txlcn-demo-springcloud
+     - txlcn-principle-control
+     - txlcn-principle-lcn
+     - txlcn-principle-tcc
+     - txlcn-principle-txc
+     - txlcn-setting-client
+     - txlcn-setting-distributed
+     - txlcn-setting-manager
+     - txlcn-expansion-message
+     - txlcn-expansion-rpc
+     - txlcn-expansion-transaction
+     - txlcn-communication
+     - txlcn-manageradmin
+     - txlcn-debug
+     - txlcn-test
+     - txlcn-developer
+     - txlcn-fqa
